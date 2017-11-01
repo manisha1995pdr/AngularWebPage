@@ -1,0 +1,137 @@
+#home{
+  width: 100%;
+  height: 1000px;
+  background-color: #e9ebee;
+}
+
+#Recent{
+  font-size: 35px;
+  top: 110px;
+  position: absolute;
+  left: 248px;
+}
+
+#label{
+  font-size: 20px;
+  top: 170px;
+  position: absolute;
+  left: 248px;
+}
+
+#image{
+  height: 200px;
+  width: 170px;
+  background-color: #f6f7f9;
+  top: 215px;
+  position: absolute;
+  left: 248px;
+}
+
+.month{
+  position: absolute;
+  left: 55%;
+  top: 385px;
+}
+.year{
+position: absolute;
+left: 60%;
+top: 385px;
+}
+
+#AddAccount{
+  height: 40px;
+  width: 170px;
+  position: absolute;
+  background-color: white;
+  left: 248px;
+  top: 415px;
+  padding: 8px;
+  padding-left: 7px;
+  padding-right: 20px;
+  color: royalblue;
+}
+
+#plus{
+  width: 50px;
+  height: 50px;
+  top: 200px;
+  left: 100px;
+  position: absolute;
+  color: #4267b2;
+  border-radius: 30px;
+}
+#createButton{
+  color: #5d974a;
+  height: 30px;
+  width: 90px;
+}
+
+#newAccount{
+  top: 110px;
+  position: absolute;
+  left: 50%;
+  font-size: 35px;
+}
+
+#free{
+  top: 170px;
+  position: absolute;
+  left: 50%;
+  font-size: 20px;
+}
+
+.input-group{
+  position: absolute;
+  left: 50%;
+}
+#firstname{
+
+  height: 30px;
+  width: 200px;
+  top: 100px;
+  border-radius: 5px;
+}
+
+
+#surname{
+  height: 30px;
+  width: 200px;
+  top: 100px;
+  left: 100%;
+  border-radius: 5px;
+}
+
+#MobileNumber{
+
+  top: 145px;
+  height: 30px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+#newpassword{
+
+  top: 190px;
+  height: 30px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+#Birthday{
+  position: absolute;
+  left: 50%;
+  top: 330px;
+}
+
+.dropdown{
+  position: absolute;
+  left: 50%;
+  top: 385px;
+}
+#createButton{
+  position: absolute;
+  left: 50%;
+  top: 430px;
+  width: 300px;
+  border-radius: 5px;
+}
